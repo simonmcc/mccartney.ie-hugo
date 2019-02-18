@@ -1,0 +1,6 @@
+baseURL = "https://www.mccartney.ie"
+languageCode = "en-us"
+title = "Simon McCartney"
+#theme = "hugo-theme-learn"
+#theme = "ananke"
+theme = "beg"
