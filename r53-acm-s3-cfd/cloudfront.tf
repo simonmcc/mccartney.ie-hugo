@@ -52,6 +52,7 @@ resource "aws_cloudfront_distribution" "apex" {
 }
 
 # CloudFront distribution - ${var.site_fqdn}
+# (should redirect to the apex site)
 resource "aws_cloudfront_distribution" "site_fqdn" {
   aliases             = ["${var.site_fqdn}"]
   default_root_object = "index.html"
@@ -59,7 +60,7 @@ resource "aws_cloudfront_distribution" "site_fqdn" {
   price_class         = "PriceClass_100"
 
   origin {
-    domain_name = "${aws_s3_bucket.apex.website_endpoint}"
+    domain_name = "${aws_s3_bucket.www_redirect_to_apex.website_endpoint}"
     origin_id   = "S3-${var.site_fqdn}"
 
     custom_origin_config {
