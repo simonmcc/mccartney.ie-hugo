@@ -4,7 +4,7 @@ author: simonm
 type: post
 date: 2005-09-09T09:18:46+00:00
 url: /bush-one-of-the-worst-disasters-to-hit-the-us/
-thumbnail: /wp-content/uploads/2015/10/41669633_74a22647fd_m.jpg
+thumbnail: wp-content/uploads/2015/10/41669633_74a22647fd_m.jpg
 categories:
   - Uncategorized
 

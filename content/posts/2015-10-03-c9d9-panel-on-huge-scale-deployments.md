@@ -4,7 +4,7 @@ author: simonm
 type: post
 date: 2015-10-03T00:10:35+00:00
 url: /c9d9-panel-on-huge-scale-deployments/
-thumbnail: /wp-content/uploads/2015/10/c9d9-episode-23-thumb.jpg
+thumbnail: wp-content/uploads/2015/10/c9d9-episode-23-thumb.jpg
 categories:
   - Uncategorized
 

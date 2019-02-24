@@ -7,7 +7,7 @@ url: /rapid-web-service-integration-slides/
 categories:
   - Open Source
 tags:
-  - barcamp barcampbelfast
+  - barcamp
   - community
 
 ---

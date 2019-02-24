@@ -4,7 +4,7 @@ author: simonm
 type: post
 date: 2015-10-20T21:06:27+00:00
 url: /family-prayers/
-thumbnail: /wp-content/uploads/2015/10/Familypraying-400x599.jpg
+thumbnail: wp-content/uploads/2015/10/Familypraying-400x599.jpg
 categories:
   - Uncategorized
 format: audio

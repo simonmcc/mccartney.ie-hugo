@@ -4,12 +4,6 @@ author: simonm
 type: post
 date: 2010-05-26T16:49:16+00:00
 url: /barcampbelfast-planning/
-aktt_notify_twitter:
-  - yes
-  - yes
-aktt_tweeted:
-  - 1
-  - 1
 categories:
   - Random Toad
 

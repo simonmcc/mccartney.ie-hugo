@@ -1,7 +1,7 @@
 # Website hostname, used to set:
 # - image and container names
 # - path to web root (in /tmp directory)
-WEBSITE=www.mccartney.ie
+WEBSITE=mccartney.ie
 
 # S3 bucket name
 S3_BUCKET=$(WEBSITE)

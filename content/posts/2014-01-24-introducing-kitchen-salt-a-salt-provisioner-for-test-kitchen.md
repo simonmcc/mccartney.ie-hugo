@@ -4,7 +4,7 @@ author: simonm
 type: post
 date: 2014-01-24T01:14:58+00:00
 url: /introducing-kitchen-salt-a-salt-provisioner-for-test-kitchen/
-thumbnail: /wp-content/uploads/2014/01/Salt-KitchenBar-600.jpg
+thumbnail: wp-content/uploads/2014/01/Salt-KitchenBar-600.jpg
 categories:
   - Open Source
 

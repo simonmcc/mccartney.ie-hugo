@@ -18,7 +18,6 @@ categories:
   - Open Source
 tags:
   - barcamp
-  - barcampbelfast
   - mysql
   - replication
 
