@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/simonmcc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mccartney.ie
+  * I am simonmcc (https://keybase.io/simonmcc) on keybase.
+  * I have a public key ASBEKC62w8w4jWOsNyaP8TMsXfxv1CJ4J60xJpLVPfSqogo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012030b22794e06fd599f48e9ca5376f2562119dc0a3e85d9c09e4e831c91bcf1b550a",
+      "host": "keybase.io",
+      "kid": "012044282eb6c3cc388d63ac37268ff1332c5dfc6fd4227827ad312692d53df4aaa20a",
+      "uid": "1943539b786022e72f3d2b492f2e8300",
+      "username": "simonmcc"
+    },
+    "merkle_root": {
+      "ctime": 1590847937,
+      "hash": "bdb9a5224e16c47c1a8df34df90b38b2e037bc45a8a399145747b4212ad01f0992f29589b9749d53b34de59e1d497d4e43dd9f1b0b956818d29c4c0bc13f9f04",
+      "hash_meta": "44290c9fc6b1a41dc64f1829c4d2dbe343c66c574ace4f70fd9325f6c8a586fe",
+      "seqno": 16452258
+    },
+    "service": {
+      "entropy": "GUixR2N/pKHF5iLbt5XurKJq",
+      "hostname": "mccartney.ie",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1590847998,
+  "expire_in": 504576000,
+  "prev": "b0629c60e5bba620411d166c56c990cafd97b72e51ddf652094a5b412778b044",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRCgutsPMOI1jrDcmj/EzLF38b9QieCetMSaS1T30qqIKp3BheWxvYWTESpcCI8QgsGKcYOW7piBBHRZsVsmQyv2Xty5R3fZSCUpbQSd4sETEIC1KjTJLWW8M8m/3McqRhXABbSBnNNyFAkfopFbbvleLAgHCo3NpZ8RABJzUFwDzMTqOBxDXxWCdguP9SlxmqOEL90dX63pK03XIeEQIsub5ZQBMOoFl0eNNVS7fDwfdj1PMXyEWkCXnC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN9ZX1l4glv6Rkv72y+YUf4PDO6ximE+/yvLECkE//YKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/simonmcc
+
+==================================================================
