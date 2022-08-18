@@ -11,11 +11,11 @@ DISTRIBUTION_ID=$(shell aws cloudfront list-distributions \
 	--query 'DistributionList.Items[].{id:Id,a:Aliases.Items}[?contains(a,`$(WEBSITE)`)].id' \
 	--output text)
 
-# Look up latest release of Hugo
+# Look up latest release of Hugo (we might be able to replace this with klakegg/hugo:latest)
 # https://github.com/gohugoio/hugo/releases/latest will automatically redirect
 # Get Location header, and extract the version number at the end of the URL
 HUGO_VERSION=$(shell curl -Is https://github.com/gohugoio/hugo/releases/latest \
-	| grep -Fi Location \
+	| grep -i -e ^Location \
 	| sed -E 's/.*tag\/v(.*)/\1/g;')
 
 default: serve
